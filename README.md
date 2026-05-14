@@ -1,2 +1,3 @@
 # wad2026
-Repositorio para el módulo de Aplicaciones Web.
+
+## Este es el repositorio de Álvaro Maqueda Suárez para el módulo Aplicaciones web.
